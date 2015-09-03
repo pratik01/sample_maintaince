@@ -128,7 +128,7 @@ GEM
       multi_json (~> 1.0, >= 1.0.2)
 
 PLATFORMS
-  Ruby
+  ruby
 
 DEPENDENCIES
   capistrano

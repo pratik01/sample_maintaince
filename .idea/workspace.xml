@@ -3,19 +3,18 @@
   <component name="ChangeListManager">
     <list default="true" id="35dffcad-5bde-41da-aa18-b4dc88204398" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/deploy.rb" afterPath="$PROJECT_DIR$/config/deploy.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="sample_maintaince.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="35dffcad-5bde-41da-aa18-b4dc88204398" time="1441112862640" ignored="false" />
     <file path="/deploy.rb" changelist="35dffcad-5bde-41da-aa18-b4dc88204398" time="1441263688240" ignored="false" />
-    <file path="/Gemfile" changelist="35dffcad-5bde-41da-aa18-b4dc88204398" time="1441262952605" ignored="false" />
+    <file path="/Gemfile" changelist="35dffcad-5bde-41da-aa18-b4dc88204398" time="1441263982609" ignored="false" />
     <file path="/Capfile" changelist="35dffcad-5bde-41da-aa18-b4dc88204398" time="1441256262528" ignored="false" />
     <file path="/setup.rb" changelist="35dffcad-5bde-41da-aa18-b4dc88204398" time="1441256224514" ignored="false" />
     <file path="/development.rb" changelist="35dffcad-5bde-41da-aa18-b4dc88204398" time="1441256730411" ignored="false" />
     <file path="/production.rb" changelist="35dffcad-5bde-41da-aa18-b4dc88204398" time="1441261022644" ignored="false" />
-    <file path="/Gemfile.lock" changelist="35dffcad-5bde-41da-aa18-b4dc88204398" time="1441263936003" ignored="false" />
+    <file path="/Gemfile.lock" changelist="35dffcad-5bde-41da-aa18-b4dc88204398" time="1441264254071" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +46,16 @@
       <file leaf-file-name="Gemfile.lock" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile.lock">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="130" column="6" selection-start="3063" selection-end="3063" vertical-scroll-proportion="0.71348315">
+            <state line="130" column="6" selection-start="3063" selection-end="3063" vertical-scroll-proportion="0.5702247">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="18" selection-start="520" selection-end="520" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -76,8 +84,8 @@
         <option value="$PROJECT_DIR$/config/deploy/development.rb" />
         <option value="$PROJECT_DIR$/Capfile" />
         <option value="$PROJECT_DIR$/config/deploy/production.rb" />
-        <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/config/deploy.rb" />
+        <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/Gemfile.lock" />
       </list>
     </option>
@@ -532,13 +540,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="17" selection-start="507" selection-end="519" vertical-scroll-proportion="0.49081364">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/deploy.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="52" column="13" selection-start="1517" selection-end="1517" vertical-scroll-proportion="0.0">
@@ -546,9 +547,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="18" selection-start="520" selection-end="520" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile.lock">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="130" column="6" selection-start="3063" selection-end="3063" vertical-scroll-proportion="0.71348315">
+        <state line="130" column="6" selection-start="3063" selection-end="3063" vertical-scroll-proportion="0.5702247">
           <folding />
         </state>
       </provider>
