@@ -48,4 +48,11 @@ namespace :deploy do
     end
   end
 
+  task :bundle_install do
+    on roles(:web), in: :sequence, wait: 5 do
+      execute :rake,"bundle install"
+    end
+
+  end
+
 end
